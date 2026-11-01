@@ -1,0 +1,17 @@
+{
+  "name": "hocllabs-clone",
+  "version": "1.0.0",
+  "description": "High-fidelity, pixel-perfect clone of HOCL LABS (https://www.hocllabs.com/)",
+  "scripts": {
+    "start": "npx serve -l 8080 .",
+    "dev": "python -m http.server 8080"
+  },
+  "keywords": [
+    "hocl",
+    "skincare",
+    "clone",
+    "ecommerce"
+  ],
+  "author": "Antigravity",
+  "license": "ISC"
+}
